@@ -1,0 +1,37 @@
+{
+  "filepath": "D:\\gyl\\06-tools\\4.SpeedOutTools\\2_Code\\CR450DataCheck\\data",
+  "obj": [
+    {
+      "obj1": "WNDS",
+      "frameoffset": 16,
+      "timeoffset": 23,
+      "framesize": 256,
+      "starttime": "2025-3-13 00:00:00",
+      "endtime": "2025-3-13 23:59:59"
+    },
+    {
+      "obj1": "BIDS",
+      "frameoffset": 16,
+      "timeoffset": 23,
+      "framesize": 256,
+      "starttime": "2025-3-13 00:00:00",
+      "endtime": "2025-3-13 23:59:00"
+    },
+    {
+      "obj1": "GVDS",
+      "frameoffset": 16,
+      "timeoffset": 23,
+      "framesize": 512,
+      "starttime": "2025-3-7 00:00:00",
+      "endtime": "2025-3-7 23:59:00"
+    },
+    {
+      "obj1": "MVDS",
+      "frameoffset": 16,
+      "timeoffset": 23,
+      "framesize": 256,
+      "starttime": "2025-3-7 00:00:00",
+      "endtime": "2025-3-7 23:59:59"
+    }
+  ]
+}
